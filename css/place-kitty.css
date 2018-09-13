@@ -8,7 +8,7 @@
 }
 
 /* Select the image with id of kitty-2 */
-
+<img src = "images/kitty-2.jpg" alt="kitty2">
 /*__write_selector_here__*/ {
   position: absolute;
   z-index: 2;
