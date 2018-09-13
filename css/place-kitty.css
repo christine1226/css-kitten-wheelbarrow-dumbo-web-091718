@@ -1,5 +1,5 @@
 /* Select the image with a class of kitty-1 */
-<img class="kitty-1" src="images/kitty-1.png" alt="kitty1">
+
 /*__write_selector_here__*/
 .kitty-1{
   position: absolute;
@@ -9,7 +9,7 @@
 }
 
 /* Select the image with id of kitty-2 */
-<img id="kitty-2" src="images/kitty-2.png" alt="kitty2">
+
 /*__write_selector_here__*/
 #kitty-2{
   position: absolute;
