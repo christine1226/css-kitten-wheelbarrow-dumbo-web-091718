@@ -9,7 +9,7 @@
 
 /* Select the image with id of kitty-2 */
 <img class="pic2" src="images/kitty-2.jpg" alt="kitty2">
-/*__write_selector_here__*/ 
+/*__write_selector_here__*/
 .pic2{
   position: absolute;
   z-index: 2;
